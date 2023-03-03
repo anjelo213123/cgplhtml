@@ -1,0 +1,13 @@
+#canvas1
+{
+	position:absolute;
+    background: rgb(146, 182, 223);
+	width: auto;
+	height: auto;
+	top: 0;
+	left:0;
+}
+#sunflower
+{
+	display: none;
+}
